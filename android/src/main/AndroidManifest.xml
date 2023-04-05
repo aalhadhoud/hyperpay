@@ -26,7 +26,7 @@
             android:configChanges="orientation"
             android:exported="false"
             android:launchMode="singleTop"
-            android:windowSoftInputMode="adjustPan"
+            android:windowSoftInputMode="adjustResize"
             tools:replace="android:windowSoftInputMode" />
         
         <meta-data
